@@ -1,0 +1,1 @@
+This folder contains some of my SQL code sample that I worked for clients. Here we have two examples one displaying usage of 'Nested Subqueries' and other displaying the usage of 'CTE' (Common Table Expressions) based on different client requirements for their reports. The PDF files are example of reports which will help to get a understanding on code logic.
